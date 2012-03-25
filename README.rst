@@ -1,2 +1,5 @@
-.. include:: README.txt
+test
+----
+
+.. include:: <README.txt>
 
